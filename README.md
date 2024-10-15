@@ -64,6 +64,12 @@ $ npx prisma db push
 $ npm run dev
 ```
 - Open http://localhost:3000 in your browser to view the app.
+  
+## Deployment
+
+*_Live link_* <br/>
+
+https://entertainment-app-y1d1.onrender.com/movies
 
 7. Voila, you're ready to create something awesome!
 
