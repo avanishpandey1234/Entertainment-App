@@ -18,7 +18,7 @@ The Movies Entertainment App is a full-stack movie and TV series entertainment a
 
 ## 🌐 Preview
 
-To use the application, visit [Movies Entertainment App](https://movies-entertainment-app-three-triump.netlify.app/) and log in using your Google or Github account to access extra features like reviews and bookmarks.
+To use the application, visit [Movies Entertainment App](https://entertainment-app-y1d1.onrender.com/movies) and log in using your Google or Github account to access extra features like reviews and bookmarks.
 
 ## 🚀 Technologies Used
 
